@@ -7,7 +7,7 @@ const productos =
             desc: "Un kite para todos los niveles",
             precio: 1200,
             tamaño: "10 metros",
-            imagen: '../public/img/kite1.jpg',
+            imagen: './public/img/kite1.jpg',
             cantidad: 1
         },
         {
@@ -17,7 +17,7 @@ const productos =
             desc: "Kite de alta performance",
             precio: 1500,
             tamaño: "12 metros",
-            imagen: '../public/img/kite2.jpeg',
+            imagen: './public/img/kite2.jpeg',
             cantidad: 1
         },
         {
@@ -27,7 +27,7 @@ const productos =
             desc: "Tabla de kitesurf para olas",
             precio: 1000,
             tamaño: "5'11''",
-            imagen: '../public/img/tabla1.jpeg',
+            imagen: './public/img/tabla1.jpeg',
             cantidad: 1
         },
         {
@@ -37,7 +37,7 @@ const productos =
             desc: "Tabla de kitesurf para freestyle",
             precio: 1200,
             tamaño: "137x42",
-            imagen: '../public/img/tabla2.jpeg',
+            imagen: './public/img/tabla2.jpeg',
             cantidad: 1
         },
         {
@@ -47,7 +47,7 @@ const productos =
             desc: "Traje de neopreno 5/3mm",
             precio: 300,
             tamaño: "M",
-            imagen: '../public/img/neopreno.jpg',
+            imagen: './public/img/neopreno.jpg',
             cantidad: 1
         }
     ];
